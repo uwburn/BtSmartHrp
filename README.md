@@ -1,0 +1,1 @@
+Porting of Microsoft example https://code.msdn.microsoft.com/windowsapps/Bluetooth-Generic-5a99ef95 to a Windows Form application.
